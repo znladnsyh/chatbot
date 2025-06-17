@@ -1,7 +1,5 @@
 # Chatbot AI (OpenAI) - Recruitment Test
 
-Project ini merupakan implementasi sederhana chatbot menggunakan API OpenAI (GPT-4o-mini), dibuat sebagai bagian dari proses seleksi **Recruitment Web Developer & IT Support | XIONCO 2025**.
-
 ---
 
 ## 📌 Cara Menjalankan Project
