@@ -51,4 +51,4 @@ http://localhost/chatbot
 
 ---
 
-© Zainul Adensyah – Recruitment XIONCO 2025
+© Zainul Adensyah – 2025
